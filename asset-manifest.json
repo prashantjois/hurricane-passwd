@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hurricane-passwd/static/css/main.10c68bf6.css",
-    "main.js": "/hurricane-passwd/static/js/main.a295da5b.js",
+    "main.js": "/hurricane-passwd/static/js/main.fd71758f.js",
     "static/js/787.77a6f8ce.chunk.js": "/hurricane-passwd/static/js/787.77a6f8ce.chunk.js",
     "index.html": "/hurricane-passwd/index.html",
     "main.10c68bf6.css.map": "/hurricane-passwd/static/css/main.10c68bf6.css.map",
-    "main.a295da5b.js.map": "/hurricane-passwd/static/js/main.a295da5b.js.map",
+    "main.fd71758f.js.map": "/hurricane-passwd/static/js/main.fd71758f.js.map",
     "787.77a6f8ce.chunk.js.map": "/hurricane-passwd/static/js/787.77a6f8ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10c68bf6.css",
-    "static/js/main.a295da5b.js"
+    "static/js/main.fd71758f.js"
   ]
 }
