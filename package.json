@@ -19,6 +19,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "format": "prettier --write .",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
@@ -45,6 +46,10 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "gh-pages": "^6.0.0",
+    "prettier": "^3.0.1"
   }
 }
